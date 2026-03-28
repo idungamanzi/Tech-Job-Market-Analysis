@@ -207,7 +207,7 @@ Based on the data, candidates entering or navigating the tech market should cons
 ## How to Run
 
 ```bash
-git clone https://github.com/your-username/job-market-analysis.git
+git clone https://github.com/idungamanzi/job-market-analysis.git
 cd job-market-analysis
 pip install pandas matplotlib
 python scripts/analysis.py
@@ -235,8 +235,7 @@ job-market-analysis/
 │   ├── top_paying_skills.png
 │   └── sweet_spot_skills.png
 │
-├── scripts/
-│   └── analysis.py
+├── analysis.py
 │
 └── README.md
 ```
